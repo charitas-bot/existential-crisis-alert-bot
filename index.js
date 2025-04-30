@@ -11,7 +11,7 @@ const {
   Type,
 } = require("@google/genai");
 
-const TECHMEME_URL = "https://techmeme.com";
+const TECHMEME_URL = "https://cointelegraph.com/tags/games";
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const TWITTER_CONFIG = {
   appKey: process.env.TWITTER_API_KEY,
