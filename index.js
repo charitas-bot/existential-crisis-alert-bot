@@ -14,10 +14,10 @@ const {
 const TECHMEME_URL = "https://cointelegraph.com/tags/games";
 const GEMINI_API_KEY = "AIzaSyBIxgNREFvYc7bIdnfVmWnvTkW3dWQdIXA";
 const TWITTER_CONFIG = {
-  appKey: process.env.TWITTER_API_KEY,
-  appSecret: process.env.TWITTER_API_SECRET,
-  accessToken: process.env.TWITTER_ACCESS_TOKEN,
-  accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+  appKey: "NdYstFc0cnfZdbgjo2qn1mrLA",
+  appSecret: "vNSWgPCS3eYVXrbrK2s2gxScXH162dc0kYGhIqSLp88tEWx3zf",
+  accessToken: "1521479725142749184-Dn11YHwVjvMqzLxkHYBYRA88KDY750",
+  accessSecret: "4HghmwBrGBrdKlLf1lg2J93R3Lazr9RVl4UDuesOdNB0t",
 };
 const TWEET_LIMIT = 3;
 let fileName = "";
