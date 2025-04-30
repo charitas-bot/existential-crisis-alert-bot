@@ -12,7 +12,7 @@ const {
 } = require("@google/genai");
 
 const TECHMEME_URL = "https://cointelegraph.com/tags/games";
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GEMINI_API_KEY = "AIzaSyBIxgNREFvYc7bIdnfVmWnvTkW3dWQdIXA";
 const TWITTER_CONFIG = {
   appKey: process.env.TWITTER_API_KEY,
   appSecret: process.env.TWITTER_API_SECRET,
